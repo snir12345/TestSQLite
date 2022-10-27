@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/lightBlue"/>
+    <item android:layout_width="400dp"
+        android:layout_height="300dp">
+        <bitmap android:src="@drawable/profile_pic" android:gravity="center" />
+    </item>
+
+<!--    <item>-->
+<!--        <bitmap-->
+<!--            android:gravity="bottom"-->
+<!--            -->
+<!--            />-->
+<!--    </item>-->
+
+
+</layer-list>
